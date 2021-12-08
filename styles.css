@@ -1,8 +1,61 @@
-body {
-    background-color: blue;
-}
+.column {
+    float: left;
+    width: 50%;
+    padding-bottom: 50px;
+  }
 
-.center {
+  .list {
     text-align: center;
-    color: white;
-}
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+
+  h2 {
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+  }
+
+
+  body {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+    display: block;
+  }
+
+  p {
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  #mainHeading {
+      align-content: "center";
+      color: red;
+  }
+
+  .funParagraph {
+    color: green;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img {
+    height: auto;
+    width: auto;
+    max-width: 300px;
+    padding-bottom: 50px;
+  }
